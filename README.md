@@ -47,8 +47,6 @@ The project includes:
 
 ## Repository Tree
 
-Recommended GitHub upload tree:
-
 ```text
 project Database Systems/
 ├── .gitignore
