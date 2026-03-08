@@ -47,43 +47,6 @@ The project includes:
 
 ## Repository Tree
 
-Current directory tree (excluding `.git`, caches, and OS files):
-
-```text
-project Database Systems/
-├── .gitignore
-├── README.md
-├── Database Project ER diagram.png
-├── LIBRARYY.rar
-├── Normalization process.xlsx
-├── project Datase Systems.docx
-├── project Database Systems - Part 1.zip
-├── project Database Systems/
-│   ├── Normalization process.xlsx
-│   └── project Datase Systems.pdf
-├── LIBRARYY/
-│   └── LIBRAR_SYSTEM/
-│       ├── manage.py
-│       ├── models.py
-│       ├── DATABASE_APP/
-│       │   ├── __init__.py
-│       │   ├── admin.py
-│       │   ├── apps.py
-│       │   ├── models.py
-│       │   ├── tests.py
-│       │   ├── views.py
-│       │   └── migrations/
-│       │       ├── 0001_initial.py
-│       │       └── 0002_authgroup_authgrouppermissions_authpermission_and_more.py
-│       ├── LIBRAR_SYSTEM/
-│       │   ├── __init__.py
-│       │   ├── asgi.py
-│       │   ├── settings.py
-│       │   ├── urls.py
-│       │   └── wsgi.py
-│       └── templates/
-```
-
 Recommended GitHub upload tree:
 
 ```text
