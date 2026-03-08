@@ -53,6 +53,7 @@ Recommended GitHub upload tree:
 project Database Systems/
 ├── .gitignore
 ├── README.md
+├── Normalization process.xlsx
 ├── Database Project ER diagram.png  (optional)
 └── LIBRARYY/
     └── LIBRAR_SYSTEM/

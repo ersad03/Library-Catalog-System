@@ -26,3 +26,6 @@ venv/
 *.xlsx
 *.ppt
 *.pptx
+
+# Keep this specific project artifact
+!Normalization process.xlsx
