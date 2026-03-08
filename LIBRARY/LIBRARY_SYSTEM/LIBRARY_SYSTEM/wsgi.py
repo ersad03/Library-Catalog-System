@@ -1,5 +1,5 @@
 """
-WSGI config for LIBRAR_SYSTEM project.
+WSGI config for LIBRARY_SYSTEM project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'LIBRAR_SYSTEM.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'LIBRARY_SYSTEM.settings')
 
 application = get_wsgi_application()
