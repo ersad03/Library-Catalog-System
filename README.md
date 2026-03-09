@@ -104,7 +104,3 @@ project Database Systems/
    - `python manage.py runserver`
 5. Open:
    - `http://127.0.0.1:8000/admin/`
-
-## Team
-
-Team details removed for privacy.
